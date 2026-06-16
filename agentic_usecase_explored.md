@@ -79,7 +79,7 @@ Critically protects the capital execution velocity of DAMAC’s global developme
 
 ## Technical Appendix: Core Capability Blueprint
 
-To deliver the solutions detailed above, our engineering divisions mastered a highly modular, enterprise-grade AI architectural matrix:
+To deliver the solutions detailed above, enterprise-grade AI architectural matrix:
 
 ```mermaid
 flowchart TD
